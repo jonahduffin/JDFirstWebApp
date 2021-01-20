@@ -1,0 +1,15 @@
+﻿body {
+    background-color:lightgray;
+    font-family:Montserrat;
+}
+
+label {
+    font-size: 20px;
+    color: #6a21b2;
+    width: 115px;
+    display:inline-block;
+}
+
+ul.quiz-props li {
+    list-style-type: none;
+}
